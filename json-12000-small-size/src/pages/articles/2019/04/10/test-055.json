@@ -1,0 +1,62 @@
+{
+  "data": {
+    "type": "node--article",
+    "id": "83385c81-cd17-4b91-9f06-a71065fe22c1",
+    "links": {
+      "self": {
+        "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1"
+      }
+    },
+    "attributes": {
+      "drupal_internal__nid": 49162,
+      "drupal_internal__vid": 49165,
+      "langcode": "es-mx",
+      "revision_timestamp": "2019-01-25T17:07:17+00:00",
+      "revision_log": null,
+      "status": true,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "created": "2019-01-25T17:07:17+00:00",
+      "changed": "2019-01-25T19:13:01+00:00",
+      "promote": true,
+      "sticky": false,
+      "default_langcode": true,
+      "revision_translation_affected": true,
+      "path": {
+        "alias": "\/example-url",
+        "pid": 30679,
+        "langcode": "es-mx"
+      },
+      "publish_on": null,
+      "unpublish_on": null,
+      "metatag": null,
+      "body": {
+        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+        "format": null,
+        "processed": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+        "summary": null
+      },
+      "field_author": "John Doe",
+      "field_channel": null,
+      "field_comment": null,
+      "field_computed_alias": "\/example-url",
+      "field_display_video_explorer": true,
+      "field_distribution_created_time": "2019-01-25T15:05:34-02:00",
+      "field_hub_page_exclude": false,
+      "field_is_evergreen": false,
+      "field_media_type": "photo",
+      "field_metatags": "a:0:{}",
+      "field_ng_uuid": "aem:3f01e2c6-a3db-428c-b053-09b95b94fbc2",
+      "field_original_uri": "https:\/\/www.example.com\/culture\/2019\/01\/example\/",
+      "field_photographer": null,
+      "field_program_id": null,
+      "field_promo_summary": null,
+      "field_promo_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "field_publish_date": "2019-01-25T17:13:01-02:00",
+      "field_rendered_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+      "field_right_rail_schedule_card": false,
+      "field_sponsored_ad": null,
+      "field_sub_headline": "Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque.",
+      "field_use_video_card": false
+    }
+  }
+}

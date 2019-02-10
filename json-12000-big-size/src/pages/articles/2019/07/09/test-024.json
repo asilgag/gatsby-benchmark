@@ -1,0 +1,451 @@
+{
+  "data": {
+    "type": "node--article",
+    "id": "83385c81-cd17-4b91-9f06-a71065fe22c1",
+    "links": {
+      "self": {
+        "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1"
+      }
+    },
+    "attributes": {
+      "drupal_internal__nid": 49162,
+      "drupal_internal__vid": 49165,
+      "langcode": "es-mx",
+      "revision_timestamp": "2019-01-25T17:07:17+00:00",
+      "revision_log": null,
+      "status": true,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "created": "2019-01-25T17:07:17+00:00",
+      "changed": "2019-01-25T19:13:01+00:00",
+      "promote": true,
+      "sticky": false,
+      "default_langcode": true,
+      "revision_translation_affected": true,
+      "path": {
+        "alias": "\/example-url",
+        "pid": 30679,
+        "langcode": "es-mx"
+      },
+      "publish_on": null,
+      "unpublish_on": null,
+      "metatag": null,
+      "body": {
+        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+        "format": null,
+        "processed": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+        "summary": null
+      },
+      "field_author": "John Doe",
+      "field_channel": null,
+      "field_comment": null,
+      "field_computed_alias": "\/example-url",
+      "field_display_video_explorer": true,
+      "field_distribution_created_time": "2019-01-25T15:05:34-02:00",
+      "field_hub_page_exclude": false,
+      "field_is_evergreen": false,
+      "field_media_type": "photo",
+      "field_metatags": "a:0:{}",
+      "field_ng_uuid": "aem:3f01e2c6-a3db-428c-b053-09b95b94fbc2",
+      "field_original_uri": "https:\/\/www.example.com\/culture\/2019\/01\/example\/",
+      "field_photographer": null,
+      "field_program_id": null,
+      "field_promo_summary": null,
+      "field_promo_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "field_publish_date": "2019-01-25T17:13:01-02:00",
+      "field_rendered_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque. Phasellus ultrices hendrerit augue auctor euismod. Aliquam id dui non sapien lacinia cursus. Phasellus facilisis nisi quis justo accumsan, congue sagittis orci pharetra. Mauris nec mauris sed urna scelerisque rutrum. Duis rutrum maximus feugiat. Integer sed volutpat neque. Nullam sed auctor tortor. Nunc ac eros iaculis, imperdiet odio vel, eleifend nunc. Proin lectus lacus, viverra a iaculis sed, fermentum a enim. In eu porttitor quam, eu placerat magna. Praesent tempor vestibulum vestibulum. Ut tristique nulla a mi placerat dignissim.",
+      "field_right_rail_schedule_card": false,
+      "field_sponsored_ad": null,
+      "field_sub_headline": "Vivamus in tristique dui. Nulla ut elementum diam. Curabitur rhoncus condimentum mattis. Nam in feugiat neque.",
+      "field_use_video_card": false
+    },
+    "relationships": {
+      "node_type": {
+        "data": {
+          "type": "node_type--node_type",
+          "id": "b2589707-004c-4602-94ef-3c3c3b46c569"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/node_type"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/node_type"
+          }
+        }
+      },
+      "revision_uid": {
+        "data": {
+          "type": "user--user",
+          "id": "494316d4-df03-4039-a027-daeaae7cfa2b"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/revision_uid"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/revision_uid"
+          }
+        }
+      },
+      "uid": {
+        "data": {
+          "type": "user--user",
+          "id": "494316d4-df03-4039-a027-daeaae7cfa2b"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/uid"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/uid"
+          }
+        }
+      },
+      "menu_link": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/menu_link"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/menu_link"
+          }
+        }
+      },
+      "field_content": {
+        "data": [
+          {
+            "type": "paragraph--image_toolkit_element",
+            "id": "1eeef07d-657b-46a3-983c-bb60b706367c",
+            "meta": {
+              "target_revision_id": 644371
+            }
+          },
+          {
+            "type": "paragraph--content",
+            "id": "e1dcf807-2045-401a-bd2b-4757703068ce",
+            "meta": {
+              "target_revision_id": 644098
+            }
+          },
+          {
+            "type": "paragraph--gallery_inline_element",
+            "id": "9ed36b78-c017-4e78-9ca1-b3a10b0ae68c",
+            "meta": {
+              "target_revision_id": 644097
+            }
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_content"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_content"
+          }
+        }
+      },
+      "field_dual_priority_package": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_dual_priority_package"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_dual_priority_package"
+          }
+        }
+      },
+      "field_entity_image": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_entity_image"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_entity_image"
+          }
+        }
+      },
+      "field_eyebrow": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_eyebrow"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_eyebrow"
+          }
+        }
+      },
+      "field_image": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_image"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_image"
+          }
+        }
+      },
+      "field_last_edited_by": {
+        "data": {
+          "type": "user--user",
+          "id": "f05c191b-f417-48d0-8ca2-f3fbecd5bd50"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_last_edited_by"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_last_edited_by"
+          }
+        }
+      },
+      "field_promo_image": {
+        "data": {
+          "type": "media--image",
+          "id": "e91848da-02c3-4bd8-8c27-efff4a23d431"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_promo_image"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_promo_image"
+          }
+        }
+      },
+      "field_related_content": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_related_content"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_related_content"
+          }
+        }
+      },
+      "field_right_rail_subscribe_ref": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_right_rail_subscribe_ref"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_right_rail_subscribe_ref"
+          }
+        }
+      },
+      "field_tax_audiences": {
+        "data": [
+          {
+            "type": "taxonomy_term--audiences",
+            "id": "4f912be2-e742-4a88-8a86-4aee995697ca"
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_audiences"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_audiences"
+          }
+        }
+      },
+      "field_tax_concepts": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_concepts"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_concepts"
+          }
+        }
+      },
+      "field_tax_events": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_events"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_events"
+          }
+        }
+      },
+      "field_tax_genres": {
+        "data": [
+          {
+            "type": "taxonomy_term--genres",
+            "id": "508d1e03-872f-4b90-8ce2-fa20a69b342d"
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_genres"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_genres"
+          }
+        }
+      },
+      "field_tax_locations": {
+        "data": [
+          {
+            "type": "taxonomy_term--locations",
+            "id": "5d621286-1378-47e3-aa8c-0c9713770152"
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_locations"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_locations"
+          }
+        }
+      },
+      "field_tax_organizations": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_organizations"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_organizations"
+          }
+        }
+      },
+      "field_tax_persons": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_persons"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_persons"
+          }
+        }
+      },
+      "field_tax_primary": {
+        "data": {
+          "type": "taxonomy_term--series",
+          "id": "48028047-2dc9-45bf-9bea-4539d13f8f4f"
+        },
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_primary"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_primary"
+          }
+        }
+      },
+      "field_tax_series": {
+        "data": [
+
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_series"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_series"
+          }
+        }
+      },
+      "field_tax_sources": {
+        "data": [
+          {
+            "type": "taxonomy_term--sources",
+            "id": "a02e0074-a50c-42ed-9d2b-dc17e6fa3639"
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_sources"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_sources"
+          }
+        }
+      },
+      "field_tax_subjects": {
+        "data": [
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "ef90110e-066e-433e-a69f-267cd7f68434"
+          },
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "97389aef-8205-4b9f-9392-31f696eb94d0"
+          },
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "41dbc1bf-ed28-486c-b420-a27442ab3460"
+          },
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "8604aa6d-2faa-4911-bf6f-5f49bf4f1340"
+          },
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "8660d2fd-ded8-464f-8fa7-52760a668c24"
+          },
+          {
+            "type": "taxonomy_term--subjects",
+            "id": "0c23ac51-885c-4165-a980-6e34af00f376"
+          }
+        ],
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_tax_subjects"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_tax_subjects"
+          }
+        }
+      },
+      "field_video_ref": {
+        "data": null,
+        "links": {
+          "self": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/relationships\/field_video_ref"
+          },
+          "related": {
+            "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1\/field_video_ref"
+          }
+        }
+      }
+    }
+  },
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http:\/\/example.local\/jsonapi\/node\/article\/83385c81-cd17-4b91-9f06-a71065fe22c1"
+    }
+  }
+}
